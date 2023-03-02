@@ -1,1 +1,1 @@
-# direct_RNA_AS
+# Repository for Direct RNA Adaptive Sampling paper
